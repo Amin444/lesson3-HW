@@ -6,10 +6,24 @@ namespace hw3
     {
         static void Main(string[] args)
         {
-          /* int A=6,B=6;
-           if(A==B)System.Console.WriteLine($"A={0} B={0}");
-           if(A>B)System.Console.WriteLine($"A={A} B={A}");
-           if(A<B)System.Console.WriteLine($"A={B} B={B}");*/
+         /*  int A=8,B=6;
+           if(A==B)
+           {
+               A=0;
+               B=0;
+           }
+           if(A>B)
+            {
+                B=A;
+            } 
+           if(A<B)
+           {
+               A=B;
+           }
+                 System.Console.Write($"A={A} B={B}");*/
+               
+            
+
         
                    //task 3
               /*double operand1 =double.Parse(Console.ReadLine());
@@ -34,12 +48,14 @@ namespace hw3
                
                       //task 4
 
-                            int num=int.Parse(Console.ReadLine());
+                              /* int num=int.Parse(Console.ReadLine());
                             
                             if(num>=0&&num<15)System.Console.WriteLine($"В промежутке[0-14]->{num}");
                             if(num>14&&num<36)System.Console.WriteLine($"В промежутке[15-35]->{num}");
                             if(num>=36&&num<51)System.Console.WriteLine($"В промежутке[36-50]->{num}");
                             if(num>=50&&num<101)System.Console.WriteLine($"В промежутке[50-100]->{num}");
+
+                            else{System.Console.WriteLine("Вы вели число в не диапозона [0-100]");}*/
                         Console.ReadKey();
                      
                        

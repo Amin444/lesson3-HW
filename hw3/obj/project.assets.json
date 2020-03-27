@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\programming\\Projects AlifC#\\Home work 3\\hw3\\hw3.csproj",
+      "projectUniqueName": "D:\\programming\\Projects AlifC#\\fcsbdddfdfdsvffdv\\lesson3-HW\\hw3\\hw3.csproj",
       "projectName": "hw3",
-      "projectPath": "D:\\programming\\Projects AlifC#\\Home work 3\\hw3\\hw3.csproj",
+      "projectPath": "D:\\programming\\Projects AlifC#\\fcsbdddfdfdsvffdv\\lesson3-HW\\hw3\\hw3.csproj",
       "packagesPath": "C:\\Users\\Amin-ПК\\.nuget\\packages\\",
-      "outputPath": "D:\\programming\\Projects AlifC#\\Home work 3\\hw3\\obj\\",
+      "outputPath": "D:\\programming\\Projects AlifC#\\fcsbdddfdfdsvffdv\\lesson3-HW\\hw3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Amin-ПК\\AppData\\Roaming\\NuGet\\NuGet.Config"

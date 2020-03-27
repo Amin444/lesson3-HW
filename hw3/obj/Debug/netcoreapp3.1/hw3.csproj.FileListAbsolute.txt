@@ -11,3 +11,16 @@ D:\programming\Projects AlifC#\Home work 3\hw3\obj\Debug\netcoreapp3.1\hw3.Assem
 D:\programming\Projects AlifC#\Home work 3\hw3\obj\Debug\netcoreapp3.1\hw3.dll
 D:\programming\Projects AlifC#\Home work 3\hw3\obj\Debug\netcoreapp3.1\hw3.pdb
 D:\programming\Projects AlifC#\Home work 3\hw3\obj\Debug\netcoreapp3.1\hw3.genruntimeconfig.cache
+D:\programming\Projects AlifC#\fcsbdddfdfdsvffdv\lesson3-HW\hw3\bin\Debug\netcoreapp3.1\hw3.exe
+D:\programming\Projects AlifC#\fcsbdddfdfdsvffdv\lesson3-HW\hw3\bin\Debug\netcoreapp3.1\hw3.deps.json
+D:\programming\Projects AlifC#\fcsbdddfdfdsvffdv\lesson3-HW\hw3\bin\Debug\netcoreapp3.1\hw3.runtimeconfig.json
+D:\programming\Projects AlifC#\fcsbdddfdfdsvffdv\lesson3-HW\hw3\bin\Debug\netcoreapp3.1\hw3.runtimeconfig.dev.json
+D:\programming\Projects AlifC#\fcsbdddfdfdsvffdv\lesson3-HW\hw3\bin\Debug\netcoreapp3.1\hw3.dll
+D:\programming\Projects AlifC#\fcsbdddfdfdsvffdv\lesson3-HW\hw3\bin\Debug\netcoreapp3.1\hw3.pdb
+D:\programming\Projects AlifC#\fcsbdddfdfdsvffdv\lesson3-HW\hw3\obj\Debug\netcoreapp3.1\hw3.csprojAssemblyReference.cache
+D:\programming\Projects AlifC#\fcsbdddfdfdsvffdv\lesson3-HW\hw3\obj\Debug\netcoreapp3.1\hw3.csproj.CoreCompileInputs.cache
+D:\programming\Projects AlifC#\fcsbdddfdfdsvffdv\lesson3-HW\hw3\obj\Debug\netcoreapp3.1\hw3.AssemblyInfoInputs.cache
+D:\programming\Projects AlifC#\fcsbdddfdfdsvffdv\lesson3-HW\hw3\obj\Debug\netcoreapp3.1\hw3.AssemblyInfo.cs
+D:\programming\Projects AlifC#\fcsbdddfdfdsvffdv\lesson3-HW\hw3\obj\Debug\netcoreapp3.1\hw3.dll
+D:\programming\Projects AlifC#\fcsbdddfdfdsvffdv\lesson3-HW\hw3\obj\Debug\netcoreapp3.1\hw3.pdb
+D:\programming\Projects AlifC#\fcsbdddfdfdsvffdv\lesson3-HW\hw3\obj\Debug\netcoreapp3.1\hw3.genruntimeconfig.cache
